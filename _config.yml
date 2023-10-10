@@ -19,8 +19,8 @@
 
 title:            'MMDA-Demo'
 description:      'Static MMDA website'
-url:              'https://mmda-wax-demo.github.io'
-baseurl:          '/'
+url:              'https://csauerwa.github.io'
+baseurl:          '/mmda-wax-demo'
 copyright:        'Example copyright org, 2023'
 logo:             '/assets/logo.png'
 default_thumb:    '/assets/default.png'
